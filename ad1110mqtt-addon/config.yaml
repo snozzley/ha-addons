@@ -1,15 +1,15 @@
-name: amcrest2mqtt
+name: ad1110mqtt
 version: 2023.3.3
-slug: amcrest2mqtt-addon
-description: A Home Assistant addon for amcrest2mqtt
-url: https://github.com/ikifar2012/amcrest2mqtt-addon/blob/master/README.md
+slug: ad1110mqtt-addon
+description: A Home Assistant addon for ad110 doorbell
+url: https://github.com/snozzley/ad1110mqtt-addon/blob/master/README.md
 arch:
 - armhf
 - armv7
 - aarch64
 - amd64
 - i386
-image: ikifar/amcrest2mqtt-addon-{arch}
+image: snozzley/ad1110mqtt-addon-{arch}
 codenotary: cas@mathesonsteplock.ca
 startup: services
 boot: auto
