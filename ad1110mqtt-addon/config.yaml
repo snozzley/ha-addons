@@ -1,5 +1,5 @@
 name: ad110mqtt
-version: 2023.4.19
+version: 2023.4.20
 slug: ad110mqtt-addon
 description: A Home Assistant addon for ad110 doorbell
 url: https://github.com/snozzley/ad110mqtt-addon/blob/master/README.md
