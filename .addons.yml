@@ -1,6 +1,6 @@
 channel: stable
 addons:
-  ad1110mqtt-addon:
-    repository: snozzley/ad1110mqtt-addon
-    target: ad1110mqtt-addon
-    image: snozzley/ad1110mqtt-addon-{arch}
+  ad110mqtt-addon:
+    repository: snozzley/ad110mqtt-addon
+    target: ad110mqtt-addon
+    image: snozzley/ad110mqtt-addon-{arch}
